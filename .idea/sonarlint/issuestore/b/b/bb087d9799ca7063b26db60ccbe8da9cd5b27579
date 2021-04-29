@@ -1,0 +1,17 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(á–Ì“
+i
+java:S1104	"NMake id a static final constant or non-public and provide accessors if needed.(ÍéÌ‘øÿÿÿÿ
+f
+java:S1104
+"PMake name a static final constant or non-public and provide accessors if needed.( þÍ¾
+k
+java:S1104"PMake size a static final constant or non-public and provide accessors if needed.(õž˜óøÿÿÿÿ
+l
+java:S1104"QMake color a static final constant or non-public and provide accessors if needed.(æ®þôûÿÿÿÿ
+e
+java:S1104"OMake age a static final constant or non-public and provide accessors if needed.(×Áò¿
+t
+java:S1104"YMake numberOfHairs a static final constant or non-public and provide accessors if needed.(þ“–èûÿÿÿÿ
+k
+java:S1206j"PThis class overrides "equals()" and should therefore also override "hashCode()".(Ý¢êÍýÿÿÿÿ
